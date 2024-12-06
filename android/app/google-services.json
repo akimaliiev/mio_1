@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381514409672",
+    "project_id": "mio-1-610e1",
+    "storage_bucket": "mio-1-610e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381514409672:android:00a2e44391d2e940e527fd",
+        "android_client_info": {
+          "package_name": "com.mio_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf18HJ2OJ4BxYNGe5ygL8Zow2WU7oEFkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
